@@ -1,15 +1,15 @@
-Privacy Policy for ayyappa-nithyapooja
+Privacy Policy for fuel density calculator
 
-This Privacy Policy governs the manner in which ayyappa-nithyapoojacollects, uses, maintains, and discloses information collected from users of the ayyappa-nithyapoojamobile application.
+This Privacy Policy governs the manner in which fuel density calculator collects, uses, maintains, and discloses information collected from users of the fuel density calculatormobile application.
 
 No Collection of Personal Information:
-ayyappa-nithyapooja does not collect any personal information from users. We do not require users to provide any personal data such as names, email addresses, phone numbers, or any other personally identifiable information while using our application.
+fuel density calculator does not collect any personal information from users. We do not require users to provide any personal data such as names, email addresses, phone numbers, or any other personally identifiable information while using our application.
 
 Usage of Information:
-The ayyappa-nithyapooja application does not collect, store, or share any user data or information. We do not track user activities, and we do not use cookies or any similar technologies.
+The fuel density calculator application does not collect, store, or share any user data or information. We do not track user activities, and we do not use cookies or any similar technologies.
 
 Third-Party Services:
-ayyappa-nithyapooja does not integrate with any third-party services that collect user information or analytics.
+fuel density calculator does not integrate with any third-party services that collect user information or analytics.
 
 Security Measures:
 We have implemented appropriate technical and organizational measures to ensure the security of the application and to prevent unauthorized access, disclosure, alteration, or destruction of any user data.
